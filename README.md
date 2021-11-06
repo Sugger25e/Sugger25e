@@ -3,9 +3,9 @@
 </div>
 
 ➡ ♂️ Male <br>
-➡ 🎂 December 20 <br>
+<p><img width="30" height="30" src="https://emoji.gg/assets/emoji/6414_Birthday_Cake_Monkey.png"> December 20</p>
 ➡ ♐ Sagittarius <br>
-➡ 🇵🇭 Philippines <br>
+<p><img  width="30" height="20" src="https://cdn.britannica.com/73/3473-004-6E573BFA/Flag-Philippines.jpg" /> Philippines</p>
 ➡ 💻 Advanced Discord Bot Developer
 
 
