@@ -6,7 +6,7 @@
 ➡ 🎂 December 20 <br>
 ➡ ♐ Sagittarius <br>
 ➡ 🇵🇭 Philippines <br>
-➡ 💻 Advanced Bot Developer
+➡ 💻 Advanced Discord Bot Developer
 
 
 <h2 align="center">Github Stats</h2>
