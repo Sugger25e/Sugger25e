@@ -2,12 +2,12 @@
 <h1> Hi, I'm Sugger <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
-➡ ♂️ Male <br>
-<p><img width="30" height="30" src="https://emoji.gg/assets/emoji/6414_Birthday_Cake_Monkey.png"> December 20</p>
-➡ ♐ Sagittarius <br>
-<p><img  width="30" height="20" src="https://cdn.britannica.com/73/3473-004-6E573BFA/Flag-Philippines.jpg" /> Philippines</p>
-➡ 💻 Advanced Discord Bot Developer
-
+<div class="info">
+<img width="25" height="25" src="https://emoji.gg/assets/emoji/9010_sign_male.png"> Male <br>
+<img width="25" height="25" src="https://emoji.gg/assets/emoji/6414_Birthday_Cake_Monkey.png"> December 20 <br>
+<img width="25" height="25" src="https://emoji.gg/assets/emoji/3882-zodiacsagittarius.gif"> Saggitarius <br>
+<img width="30" height="20" src="https://cdn.britannica.com/73/3473-004-6E573BFA/Flag-Philippines.jpg"> Philippines
+</div>
 
 <h2 align="center">Github Stats</h2>
 <div align="center">
